@@ -1,5 +1,5 @@
 # QA-test-for-Incubyte
-Gmail Compose Function Testing Assignment for Incubyte – Traditional and BDD Test Cases (Positive & Negative Scenarios)
+Gmail Compose Function Testing Assignment for Incubyte – Traditional Test cases(Positive & Negative Scenarios) and BDD Test Cases 
 
 Overview
 This repository contains test cases created for the Gmail Compose functionality as part of the Incubyte QA Assessment.
@@ -54,17 +54,18 @@ Severity Levels
 Severity	           |                Description
 ---------------------|-------------------------------------------------------------------------------------------------------------
 Critical	           |         Functionality completely blocked, email cannot be composed or sent.
-High	               |          Major functionality affected, causing incorrect behavior or preventing successful email delivery.
-Medium	             |          Partial functionality issue with available workaround.
-Low	                 |          Minor UI, usability, formatting, or cosmetic issues.
+High	               |         Major functionality affected, causing incorrect behavior or preventing successful email delivery.
+Medium	             |         Partial functionality issue with available workaround.
+Low	                 |         Minor UI, usability, formatting, or cosmetic issues.
 
 Priority Levels
 Priority	            |               Description
 ----------------------|---------------------------------------------------------------------------------------------------------
-High (P1)	            |         Must be fixed immediately as it impacts core business functionality.
+High (P1)	            |        Must be fixed immediately as it impacts core business functionality.
 Medium (P2)	          |        Should be fixed in upcoming releases or sprints.
-Low (P3)	            |         Can be addressed later as it has minimal business impact.
+Low (P3)	            |        Can be addressed later as it has minimal business impact.
 
 
 Author
+
 QA Engineer
